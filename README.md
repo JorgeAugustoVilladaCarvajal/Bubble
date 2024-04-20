@@ -1,4 +1,4 @@
-# Bubble
+# Sistema de registro de compras en Bubble
 Acontinuacion te dejare el link que te dirigira a mi proyecto de Bubble: https://jovisu2.bubbleapps.io/version-test/reset_pw?debug_mode=true
 
 Aqui de dejare el codigo de mi proyecto en Bubble: 
